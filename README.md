@@ -29,3 +29,8 @@ Install dependecies by following command
  
  ![Capture (1)](https://user-images.githubusercontent.com/68493507/88472156-9b0cb280-cf2d-11ea-9c60-e10563bac2fe.png)
 
+
+
+## Technologies Used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
