@@ -26,4 +26,6 @@ Install dependecies by following command
  
  ## Result 
  - train and validation plot
- ![Capture (1)](https://user-images.githubusercontent.com/68493507/88472087-2fc2e080-cf2d-11ea-8791-41f99c8bd39b.JPG)
+ 
+ ![Capture (1)](https://user-images.githubusercontent.com/68493507/88472156-9b0cb280-cf2d-11ea-9c60-e10563bac2fe.png)
+
